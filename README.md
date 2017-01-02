@@ -7,7 +7,7 @@ Telegram Bot APi in Python simple :)
 # https://telegram.me/botfather
 token_api = 'your token here'
 # Example ->
-token_api = '113727310:AAFoSJ6TUa0IlvCs2-4y_wB4EYnWYKttqik'
+token_api = '309927236:AAGRbWutijJ6j7-sdz3Uq14mLqDa011hlS4'
 
 # You may amendment to the comments
 def commands(Text):
